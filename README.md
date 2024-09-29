@@ -1,6 +1,6 @@
 # KNN-Instruct
 
-Repo for KNN-Instruct: Automatic Instruction Construction with K Nearest Neighbor Deduction. EMNLP 2024 Main.
+Repo for [EMNLP 2024] KNN-Instruct: Automatic Instruction Construction with K Nearest Neighbor Deduction.
 
 ## Steps to Reproduce KNN-Instruct
 
